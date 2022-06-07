@@ -27,4 +27,4 @@ function smallest_multiple(n)
     return smallest_multiple
 end
 
-println("The smallest number that is divisible by all integers from 1 to 20 is $(smallest_multiple(20))")
+println("The smallest number that is divisible by all integers from 1 to 30 is $(smallest_multiple(30))")
